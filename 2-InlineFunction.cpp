@@ -7,7 +7,7 @@ If you're using Turbo c and it's compilers Do some changes
 write 
 > #include<iostream.h>
 and comment 
-> lines 10 & 11
+> lines 13 & 14
 */
 
 #include <iostream>
