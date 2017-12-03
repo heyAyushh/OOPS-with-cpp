@@ -7,10 +7,7 @@
                 "/usr/local/include",
                 "/usr/include",
                 "${workspaceRoot}",
-                "/usr/include/c++/4.2.1/tr1",
-                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
-                "/Users/Ashish/Library/Arduino15/packages/arduino/hardware/avr/1.6.19/cores/arduino",
-                "/Users/Ashish/Library/Arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266"
+                "/usr/include/c++/4.2.1/tr1"
             ],
             "defines": [],
             "intelliSenseMode": "clang-x64",
@@ -19,10 +16,7 @@
                     "/usr/include/c++/4.2.1",
                     "/usr/local/include",
                     "/usr/include",
-                    "${workspaceRoot}",
-                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
-                    "/Users/Ashish/Library/Arduino15/packages/arduino/hardware/avr/1.6.19/cores/arduino",
-                    "/Users/Ashish/Library/Arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266"
+                    "${workspaceRoot}"
                 ],
                 "limitSymbolsToIncludedHeaders": false,
                 "databaseFilename": ""
