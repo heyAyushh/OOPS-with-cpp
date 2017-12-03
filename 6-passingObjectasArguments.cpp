@@ -14,7 +14,7 @@ using namespace std;
 class myclass{
 
     private:
-         int num; // This is a static data member
+         int num;
     
     public:
         void get_data() //This function asks user for input and then initilaises the 
