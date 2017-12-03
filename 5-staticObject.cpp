@@ -16,7 +16,7 @@ using namespace std;
 class sample{
 
     private:
-        int a; // This is a static data member
+        int a;
         int b;
     
     public:
